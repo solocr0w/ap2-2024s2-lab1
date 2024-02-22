@@ -3,13 +3,12 @@
  *Exemplo 1.
 */
 
-#include <stdio.h>>
+#include <stdio.h>
 
 int main(){
 //imprime mensagens na tela
   printf("Mackenzie - FCI\n");
-  printf("Algoritmos e\n");
-  printf("Prog. II\n");
-  printf("Vamos estudar a linguagem C");
+  printf("Ciência da Computação\n");
+  printf("Algoritmos e Programação II\n");
   return 0;  
 }
